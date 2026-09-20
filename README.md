@@ -1,0 +1,334 @@
+# 🐟 Goofish (Xianyu / 闲鱼 / Idle Fish) Scraper & API
+
+<div align="center">
+
+[![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
+[![Success Rate](https://img.shields.io/badge/Success_Rate-99%25+-brightgreen?style=for-the-badge)](#)
+[![Zero Login](https://img.shields.io/badge/Account_Required-None-blue?style=for-the-badge)](#)
+[![Pricing](https://img.shields.io/badge/Pricing-Pay_Per_Result-orange?style=for-the-badge)](#)
+[![Free Compute](https://img.shields.io/badge/Compute_Fee-$0.00_Free-brightgreen?style=for-the-badge)](#)
+
+**The most powerful, cost-effective, and reliable Goofish (闲鱼 / Xianyu / Idle Fish) scraper and API on Apify. Extract real-time product listings, historical pricing, uncompressed HD photo galleries, and verified seller Zhima Credit reputation metrics — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
+
+[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**📖 Documentation**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**💬 Support**](mailto:radwanfaris13@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="goofish_scraper_banner.jpg" alt="Goofish Xianyu Scraper by ScraperPro" width="100%">
+</div>
+
+---
+
+## 📖 Overview
+
+**Goofish (闲鱼 / Xianyu / Idle Fish)** is Alibaba's flagship C2C second-hand marketplace with over **500 million registered users**. It is Asia's largest trading hub for pre-owned consumer electronics, designer fashion, vintage luxury, anime figures, video games, musical instruments, and rare collectibles.
+
+However, extracting data from Goofish is notoriously difficult:
+- Aggressive Alibaba anti-bot protection and dynamic mtop request signing (`_m_h5_tk`, `tfstk`).
+- Mandatory Chinese mobile number (+86) SMS verification and QR login barriers.
+- Frequent session timeouts, device fingerprinting, and sliding captcha walls.
+
+**Goofish Scraper by ScraperPro** completely eliminates these roadblocks. Operating via an automated stealth engine, this scraper collects thousands of listings seamlessly worldwide with **zero login, zero cookies, and zero server compute fees ($0.00 compute)**.
+
+---
+
+## 🌟 Why Choose ScraperPro Over Other Scrapers?
+
+| Feature | ScraperPro Goofish Scraper | Other Scrapers | Commercial Data APIs |
+| :--- | :---: | :---: | :---: |
+| **Pricing Model** | **Pay-Per-Result (PPE)** | Heavy Monthly Subscription ($80-$300/mo) | High Per-Request Rates |
+| **Server Compute Fees** | **100% Free ($0.00)** | Billed per GB memory & runtime hour | Hidden infrastructure fees |
+| **Chinese Phone / Account** | **None (100% Worldwide Access)** | Requires Chinese (+86) Phone & Login | Requires KYC Verification |
+| **Dual Extraction Modes** | **Summary (Fast & Cheap) + Full Detail** | ❌ Single rigid mode only | Limited fixed fields |
+| **Seller Zhima Credit** | **Full Ratings (`信用极好`), Sales & Reviews** | ❌ Missing or incomplete | ❌ Not available |
+| **Physical Condition & Specs** | **Enriched (Brand, Model, Wear Grade)** | Raw text blobs | Unstructured data |
+| **Media Quality** | **Original Uncompressed HD Photos** | Low-resolution thumbnails | Compressed images |
+| **Personal Seller Filter** | **Built-in (`filterPersonal`)** | ❌ Mixed with commercial spam | ❌ No filtering |
+| **Anti-Bot Resilience** | **Automated Session Auto-Healing** | Frequent IP blocks and rate limits | Cloudflare/WAF errors |
+
+---
+
+## ✨ Key Features
+
+- **🛡️ 100% Zero-Cookie Guest Mode:** No Chinese phone number, Alipay account, or session cookies required. Works immediately out of the box worldwide.
+- **⚡ Dual Extraction Modes:**
+  - **Summary Mode (`search-item`):** High-speed, cost-efficient market discovery returning 13 essential fields (ID, title, price CNY, photo, location, tags, seller ID, wants count).
+  - **Full Detail Mode (`detail-item`):** Deep product inspection with 25+ comprehensive fields (full HD photo gallery, exact specs, item condition grade, seller Zhima credit rating, review percentage, total sold).
+- **🛡️ Seller Background & Zhima Credit Intelligence:** Capture seller Zhima credit tiers (`信用极好` Excellent, `信用良好` Good), historical sales volume, 24-hour reply rate, and customer feedback percentages to eliminate counterfeit risks.
+- **🎯 Smart Arbitrage Filters:** Filter specifically for private individual sellers (`filterPersonal`) to bypass commercial dropshippers and uncover genuine underpriced deals.
+- **🖼️ Uncompressed HD Media:** Extracts full-resolution photo URLs directly from Alibaba CDNs without compression artifacts.
+- **🌐 English & Chinese Query Support:** Search using global brand names (e.g. *iPhone 15*, *Switch OLED*, *Sony A7M4*, *RTX 4090*) or native Chinese keywords (*手办*, *胶片相机*).
+- **🔄 Universal URL Dispatcher:** Paste search keywords, direct item web URLs (`goofish.com/item?id=...`), or bare product IDs.
+
+---
+
+## 💡 Practical Business Use Cases & Arbitrage
+
+### 1. 🌐 Cross-Border E-Commerce Arbitrage (eBay, Mercari, Amazon, Shopee)
+Source heavily discounted secondhand electronics, vintage cameras, designer apparel, and Japanese gaming hardware from Chinese private sellers on Goofish. Verify condition through uncompressed HD photo galleries and resell globally with 30%–100%+ profit margins.
+
+### 2. 🛡️ Supplier Vetting & Counterfeit Protection
+Inspect seller Zhima Credit ratings (`信用极好`), account age (`registeredDays`), transaction volume (`totalSold`), and positive review rates (`goodReviewRate`) before purchasing or sending proxy buying agents (Superbuy, Pandabuy, CSSBuy).
+
+### 3. 📉 Secondary Market Price Intelligence & Depreciation Curves
+Track secondary market pricing, price drop percentages (`priceDropPercent`), and consumer buyer demand (`wants` count) across consumer electronics, camera lenses, and luxury goods.
+
+### 4. 🧸 Collectibles & Limited-Edition Imports
+Monitor rare anime figures, vintage film cameras, mechanical keyboards, trading cards, and discontinued gaming consoles before they appear on international marketplaces.
+
+---
+
+## 📦 Dual Extraction Modes: What Data Do You Get?
+
+Data is structured cleanly and ready for immediate export to **Excel, Google Sheets, or backend databases**:
+
+| Field | Summary Mode (`search-item`) | Full Detail Mode (`detail-item`) | Description |
+| :--- | :---: | :---: | :--- |
+| `id` | ✅ | ✅ | Goofish unique product listing ID |
+| `title` | ✅ | ✅ | Listing title |
+| `price` | ✅ | ✅ | Listed price in Chinese Yuan (¥ CNY) |
+| `currency` | ✅ | ✅ | Currency code (`CNY`) |
+| `url` | ✅ | ✅ | Direct Goofish product URL |
+| `pictureUrl` | ✅ | ✅ | Primary listing photo |
+| `city` | ✅ | ✅ | Seller location / shipping origin city |
+| `freeShipping` | ✅ | ✅ | Free shipping flag |
+| `tags` | ✅ | ✅ | Tags (e.g. `6小时前发布`, `卖家信用极好`, `验货宝`) |
+| `wants` | ✅ | ✅ | Number of interested buyers (`想要`) |
+| `seller.id` | ✅ | ✅ | Seller profile ID |
+| `seller.name` | ✅ | ✅ | Seller display username |
+| `postedAt` | ✅ | ✅ | Listing publication timestamp |
+| `priceOriginal` | — | ✅ | Original retail price before discount (¥ CNY) |
+| `priceDropPercent` | — | ✅ | Percentage discount from original price |
+| `description` | — | ✅ | Full product description |
+| `condition` | — | ✅ | Physical condition (e.g. `全新`, `良好`, `轻微划痕磨损`) |
+| `images` | — | ✅ | Full array of uncompressed HD photo gallery URLs |
+| `specs` | — | ✅ | Key product attributes (Brand, Model, Version, Storage, etc.) |
+| `tradeGuarantee` | — | ✅ | Alibaba Alipay trade guarantee escrow protection flag |
+| `reportUrl` | — | ✅ | Official dispute resolution / counterfeit report link |
+| `seller.signature` | — | ✅ | Seller bio / store signature |
+| `seller.lastActive` | — | ✅ | Seller last seen online status |
+| `seller.averageReplyTime` | — | ✅ | Average seller response time |
+| `seller.registeredDays` | — | ✅ | Account age in days |
+| `seller.zhimaAuth` | — | ✅ | Real-name & Alipay identity verification flag |
+| `seller.zhimaCredit` | — | ✅ | Zhima Credit tier (`信用极好`, `信用良好`, `信用中等`) |
+| `seller.totalSold` | — | ✅ | Historical completed sales count |
+| `seller.goodReviewRate`| — | ✅ | Positive customer feedback percentage (e.g. `100%`) |
+| `seller.replyRate24h` | — | ✅ | 24-hour message response rate |
+| `stats.views` | — | ✅ | Number of page views |
+| `stats.wants` | — | ✅ | Number of buyer inquiries |
+| `stats.favorites` | — | ✅ | Number of buyer bookmarks |
+
+---
+
+## 🛠️ How to Use via API
+
+You can trigger runs directly in the [Apify Console](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) or integrate programmatically into your Python, Node.js, or cURL pipeline.
+
+### 🐍 Python Example
+
+```bash
+pip install apify-client
+```
+
+```python
+from apify_client import ApifyClient
+
+# Initialize the client with your Apify API token
+client = ApifyClient("YOUR_APIFY_TOKEN")
+
+# Configure the search parameters
+run_input = {
+    "keyword": "Switch OLED",
+    "detailLevel": "full",
+    "maxItems": 50,
+    "sortBy": "newest",
+    "quickFilters": ["filterPersonal", "filterFreePostage"],
+}
+
+# Run the Actor and wait for completion
+print("🚀 Launching Goofish Scraper...")
+run = client.actor("scraperpro/goofish-xianyu-search-scraper").call(run_input=run_input)
+
+# Fetch scraped listings from the dataset
+dataset_items = client.dataset(run["defaultDatasetId"]).list_items().items
+print(f"✅ Successfully scraped {len(dataset_items)} Goofish listings!")
+
+for item in dataset_items[:3]:
+    print(f"\nTitle: {item.get('title')}")
+    print(f"Price: ¥{item.get('price')} CNY")
+    print(f"Seller: {item.get('seller', {}).get('name')}")
+    print(f"Zhima Credit: {item.get('seller', {}).get('zhimaCredit')}")
+    print(f"Condition: {item.get('condition')}")
+    print(f"URL: {item.get('url')}")
+```
+
+---
+
+### 🟨 JavaScript / Node.js Example
+
+```bash
+npm install apify-client
+```
+
+```javascript
+import { ApifyClient } from 'apify-client';
+
+const client = new ApifyClient({
+    token: 'YOUR_APIFY_TOKEN',
+});
+
+const runInput = {
+    keyword: 'iPhone 15',
+    detailLevel: 'summary',
+    maxItems: 100,
+    priceMax: 4000,
+    sortBy: 'priceAsc',
+    quickFilters: ['filterPersonal'],
+};
+
+console.log('🚀 Starting Goofish Scraper...');
+const run = await client.actor('scraperpro/goofish-xianyu-search-scraper').call(runInput);
+
+const { items } = await client.dataset(run.defaultDatasetId).listItems();
+console.log(`✅ Extracted ${items.length} listings from Goofish!`);
+
+console.log(items.slice(0, 2));
+```
+
+---
+
+### 🌐 cURL Example
+
+```bash
+curl -X POST "https://api.apify.com/v2/acts/scraperpro~goofish-xianyu-search-scraper/runs?token=YOUR_APIFY_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "keyword": "RTX 4090",
+    "detailLevel": "full",
+    "maxItems": 20,
+    "sortBy": "newest"
+  }'
+```
+
+---
+
+## 📤 Sample Output Data
+
+Each record contains clean, structured information ready for downstream ingestion:
+
+```json
+{
+  "id": "1082638287441",
+  "title": "Switch OLED 喷射战士3限定港版",
+  "price": 1340,
+  "currency": "CNY",
+  "url": "https://www.goofish.com/item?id=1082638287441",
+  "pictureUrl": "http://img.alicdn.com/bao/uploaded/i2/2212259311853/O1CN01Dd3gwqAchoG3thAe_!!4611686018427384045-0-xy_item.jpg",
+  "city": "九江",
+  "freeShipping": true,
+  "tags": [
+    "6小时前发布",
+    "卖家信用极好",
+    "freeShippingIcon"
+  ],
+  "postedAt": "2026-09-16T14:34:20+00:00",
+  "description": "Switch OLED 喷射战士3限定港版\n原装配件齐全，箱说全，五码合一，机身有轻微使用痕迹，按键灵敏，屏幕已贴钢化膜，功能一切正常。\n外加一张64G内存卡和港版原装电源转换插头。\n支持顺丰包邮，支持验货宝验机！",
+  "status": "online",
+  "condition": "轻微划痕磨损",
+  "specs": {
+    "品牌": "Nintendo/任天堂",
+    "型号": "Switch OLED",
+    "成色": "轻微划痕磨损",
+    "游戏机版本": "港版",
+    "内存容量": "64GB",
+    "包装": "有原包装盒"
+  },
+  "seller": {
+    "id": "2212259311853",
+    "name": "极客数码_0x",
+    "url": "https://www.goofish.com/personal?userId=2212259311853",
+    "city": "九江",
+    "lastActive": "6小时前来过",
+    "averageReplyTime": "2小时",
+    "registeredDays": 1811,
+    "zhimaAuth": true,
+    "zhimaCredit": "信用极好",
+    "totalSold": 9,
+    "totalListed": 8,
+    "goodReviewRate": "100%",
+    "replyRate24h": "66%"
+  },
+  "tradeGuarantee": true,
+  "reportUrl": "https://h5.m.goofish.com/wow/moyu/cro-report-center/...",
+  "stats": {
+    "views": 41,
+    "wants": 12,
+    "favorites": 18
+  },
+  "detailLevel": "full"
+}
+```
+
+---
+
+## ⚙️ Input Parameters Reference
+
+| Parameter | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `keyword` | `string` | — | Search query in English or Chinese (e.g. `iPhone 15`, `Switch OLED`, `RTX 4090`, `手办`). You can also paste a Goofish web link directly! |
+| `startUrls` | `array` | `[]` | Direct Goofish item URLs or numeric product IDs to enrich. Automatically defaults to `detailLevel: "full"`. |
+| `searchUrls` | `array` | `[]` | Goofish search URLs (keywords and parameters extracted automatically; scrapes multiple search queries sequentially). |
+| `detailLevel` | `string` | `"summary"` | `"summary"` (ultra-fast, 13 core fields) or `"full"` (complete specs, HD gallery, seller stats). |
+| `maxItems` | `integer` | `100` | Maximum number of items to collect (supports long runs up to 3,000+ items). |
+| `sortBy` | `string` | `"newest"` | Sort order: `newest`, `priceAsc`, `priceDesc`, `priceDrop`, `credit`, `relevance`. |
+| `priceMin` | `integer` | — | Minimum price in Chinese Yuan (¥ CNY). |
+| `priceMax` | `integer` | — | Maximum price in Chinese Yuan (¥ CNY). |
+| `quickFilters` | `array` | `[]` | `filterPersonal` (private sellers only), `filterFreePostage` (free shipping), `filterNew` (brand new), `filterAppraise` (verified authentic). |
+| `regionIds` | `array` | `[]` | Filter by Chinese province or city code (e.g. `440100` for Guangzhou, `310100` for Shanghai). |
+| `proxyConfiguration` | `object` | Residential | Apify Proxy configuration (residential proxies recommended for large-scale runs). |
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### Do I need a Chinese phone number, Alipay, or Goofish account?
+**No.** The scraper operates entirely in Zero-Cookie Guest Mode using automated device emulation. You do not need a Chinese phone number (+86), account login, or cookies.
+
+### Can I search using English keywords?
+**Yes.** Global brand names, models, and numbers (e.g. `iPhone 15`, `Switch OLED`, `RTX 4090`, `Sony A7M4`, `Leica`) work natively. For specialized domestic Chinese goods (such as anime figures or vintage tea sets), searching with Chinese terms (e.g. `手办`, `胶片相机`) returns the highest volume of listings.
+
+### What is the advantage of `filterPersonal`?
+Goofish hosts both individual sellers and commercial vendors. Enabling `filterPersonal` filters out commercial dropshippers and shows only genuine individual users selling their personal secondhand items, which is where the best arbitrage deals are found.
+
+### What does Zhima Credit tell me about a seller?
+Zhima Credit (`芝麻信用`) is Alibaba's official credit rating system. Sellers with `信用极好` (Excellent Credit) have verified government identities, linked banking credentials, and an exemplary transaction track record. Filtering by credit score helps you avoid unverified accounts and counterfeit goods.
+
+### What proxies should I use?
+For best performance and uninterrupted pagination on large datasets, we recommend **Apify Residential Proxies**.
+
+---
+
+## 📞 Support & Custom Scrapers
+
+Need a custom data solution, high-volume enterprise crawls, or tailored webhooks?
+
+- **Apify Actor Store:** [Goofish Scraper](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish)
+- **Email:** [radwanfaris13@gmail.com](mailto:radwanfaris13@gmail.com)
+- **Author:** ScraperPro
+
+<div align="center">
+  <br>
+  <a href="https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish">
+    <img src="https://img.shields.io/badge/Start_Scraping_Now-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white" height="40" alt="Start Scraping Now">
+  </a>
+</div>
+
+---
+
+## 🔍 Keywords & Search Tags
+
+`goofish-scraper` • `xianyu-scraper` • `idlefish-scraper` • `goofish-api` • `xianyu-api` • `idlefish-api` • `闲鱼爬虫` • `闲鱼数据采集` • `goofish-python` • `xianyu-python` • `scrape-goofish-without-login` • `taobao-secondhand-scraper` • `alibaba-c2c-scraper` • `ecommerce-arbitrage-china` • `zhima-credit-checker` • `apify-actor` • `cross-border-arbitrage` • `used-electronics-china`
