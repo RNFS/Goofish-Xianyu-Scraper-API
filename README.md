@@ -218,6 +218,10 @@ curl -X POST "https://api.apify.com/v2/acts/scraperpro~goofish-xianyu-search-scr
 
 ## 📤 Sample Output Data
 
+<div align="center">
+  <img src="Goofish_Xianyu_Scraper_Apify_actor.jpeg" alt="Goofish Xianyu Scraper Apify Dataset Preview" width="100%">
+</div>
+
 Each record contains clean, structured information ready for downstream ingestion:
 
 ```json
