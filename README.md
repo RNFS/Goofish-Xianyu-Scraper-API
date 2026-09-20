@@ -11,7 +11,7 @@
 
 **The most powerful, cost-effective, and reliable Goofish (闲鱼 / Xianyu / Idle Fish) scraper and API on Apify. Extract real-time product listings, historical pricing, uncompressed HD photo galleries, and verified seller Zhima Credit reputation metrics — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
-[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**📖 Documentation**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**💬 Support**](mailto:radwanfaris13@gmail.com)
+[**🚀 Try it Live on Apify**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**📖 Documentation**](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish) • [**💬 Support**](https://apify.com/scraperpro/goofish-xianyu-search-scraper/issues)
 
 </div>
 
@@ -312,12 +312,12 @@ For best performance and uninterrupted pagination on large datasets, we recommen
 
 ---
 
-## 📞 Support & Custom Scrapers
+## 📞 Support & Custom Solutions
 
-Need a custom data solution, high-volume enterprise crawls, or tailored webhooks?
+Need a custom data pipeline, feature enhancement, or enterprise integration?
 
 - **Apify Actor Store:** [Goofish Scraper](https://apify.com/scraperpro/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish)
-- **Email:** [radwanfaris13@gmail.com](mailto:radwanfaris13@gmail.com)
+- **Bug Reports & Feature Requests:** [Apify Issues](https://apify.com/scraperpro/goofish-xianyu-search-scraper/issues)
 - **Author:** ScraperPro
 
 <div align="center">
