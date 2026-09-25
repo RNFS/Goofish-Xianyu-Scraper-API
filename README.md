@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://unitbytes.com/assets/banners/unitbytes-goofish-xianyu-search-deals-scraper-banner.jpg" alt="Goofish (Xianyu) Search & Deals Scraper API by UnitBytes" width="100%" />
+</p>
+
 # 🐟 Goofish (Xianyu / 闲鱼 / Idle Fish) Scraper & API
 
 <div align="center">
@@ -195,7 +199,7 @@ run_input = {
 
 # Run the Actor and wait for completion
 print("🚀 Launching Goofish Scraper...")
-run = client.actor(\"unitbytes/goofish-xianyu-search-scraper\").call(run_input=run_input)
+run = client.actor("unitbytes/goofish-xianyu-search-scraper\").call(run_input=run_input)
 
 # Fetch scraped listings from the dataset
 dataset_items = client.dataset(run["defaultDatasetId"]).list_items().items
@@ -235,7 +239,7 @@ const runInput = {
 };
 
 console.log('🚀 Starting Goofish Scraper...');
-const run = await client.actor(\"unitbytes/goofish-xianyu-search-scraper\").call(runInput);
+const run = await client.actor("unitbytes/goofish-xianyu-search-scraper\").call(runInput);
 
 const { items } = await client.dataset(run.defaultDatasetId).listItems();
 console.log(`✅ Extracted ${items.length} listings from Goofish!`);
@@ -380,3 +384,11 @@ Need a custom data pipeline, feature enhancement, or enterprise integration?
 ## 🔍 Keywords & Search Tags
 
 `goofish-scraper` • `xianyu-scraper` • `idlefish-scraper` • `goofish-api` • `xianyu-api` • `idlefish-api` • `闲鱼爬虫` • `闲鱼数据采集` • `goofish-python` • `xianyu-python` • `scrape-goofish-without-login` • `taobao-secondhand-scraper` • `alibaba-c2c-scraper` • `ecommerce-arbitrage-china` • `zhima-credit-checker` • `apify-actor` • `cross-border-arbitrage` • `used-electronics-china`
+
+---
+
+## 💬 Enterprise Support & Custom Pipelines
+Need custom web data feeds, high-frequency scheduled runs, private cluster deployments, or dedicated SLAs?
+- 📧 **Direct Email**: [contact@unitbytes.com](mailto:contact@unitbytes.com)
+- 🌐 **Enterprise Platform**: [https://unitbytes.com](https://unitbytes.com)
+- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-xianyu-search-scraper/](https://unitbytes.com/actors/goofish-xianyu-search-scraper/)
