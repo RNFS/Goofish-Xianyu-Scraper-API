@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" target="_blank">
-    <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="260" height="52" alt="Try it Free on Apify">
+    <img src="https://raw.githubusercontent.com/unitbytes-com/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="260" height="52" alt="Try it Free on Apify">
   </a>
   <br>
   <sub>⚡ <b>1-Click Free Trial:</b> Test live queries using Apify's $5 free monthly credit • No credit card required</sub>
@@ -90,7 +90,7 @@ However, extracting data from Goofish is notoriously difficult:
 
 <p align="center">
   <a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" target="_blank">
-    <img src="https://raw.githubusercontent.com/RNFS/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="240" height="48" alt="Try it Free on Apify">
+    <img src="https://raw.githubusercontent.com/unitbytes-com/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="240" height="48" alt="Try it Free on Apify">
   </a>
 </p>
 
