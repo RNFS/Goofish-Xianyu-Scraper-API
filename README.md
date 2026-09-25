@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unitbytes.com/assets/banners/unitbytes-goofish-xianyu-search-deals-scraper-banner.jpg" alt="Goofish (Xianyu) Search & Deals Scraper API by UnitBytes" width="100%" />
+  <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/banners/unitbytes-goofish-xianyu-search-deals-scraper-banner.jpg" alt="Goofish (Xianyu) Search & Deals Scraper API by UnitBytes" width="100%" />
 </p>
 
 # 🐟 Goofish (Xianyu / 闲鱼 / Idle Fish) Scraper & API
