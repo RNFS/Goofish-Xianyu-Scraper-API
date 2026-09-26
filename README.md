@@ -33,6 +33,25 @@
 
 ---
 
+## ⚡ Pre-Configured 1-Click Tasks & Common Use Cases
+
+Skip manual parameter setup. Launch these ready-to-use task presets directly in 1 click:
+
+| Arbitrage Niche / Product Preset | Description & Target Query | 1-Click Run Link |
+| :--- | :--- | :---: |
+| **Find Used iPhones & Refurbished Apple Deals on (闲鱼)** | Extract iPhone 15, 14, and 13 listings on Goofish. Filter by price, seller Zhima credit, battery health specs, and clean plain-text descriptions. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-iphone-used-phones&fpr=939u3w&fp_sid=gh_goofish) |
+| **Track Nintendo Switch OLED & Japanese Console Deals on Goofish** | Monitor Nintendo Switch OLED, PS5, and retro handhelds on Goofish. Extract Japanese import editions, bundled games, condition, and seller ratings. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-nintendo-switch-consoles&fpr=939u3w&fp_sid=gh_goofish) |
+| **Source Anime Figures, Bandai & Pop Mart Collectibles on Goofish** | Search rare anime figures, garage kits, Pop Mart blind boxes, and authentic Japanese collectibles on Goofish. Get HD photo galleries and seller feedback. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-anime-figures-collectibles&fpr=939u3w&fp_sid=gh_goofish) |
+| **Monitor RTX 4090, 4080 & Used Graphics Cards on Goofish** | Track secondary market prices for NVIDIA GeForce RTX 4090, 4080, and 3080 GPUs on Goofish. Detect price drops and vet seller transaction history. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-graphics-cards-gpu&fpr=939u3w&fp_sid=gh_goofish) |
+| **Discover Vintage Leica, Canon & Sony Cameras on Goofish** | Find vintage 35mm film cameras, medium format bodies, Leica rangefinders, and vintage lenses on Goofish with high-resolution inspection photos. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-vintage-film-cameras&fpr=939u3w&fp_sid=gh_goofish) |
+| **Track Second-Hand Luxury Bags, Streetwear & Sneakers on Goofish** | Monitor designer fashion, luxury handbags, and limited-edition sneakers on Goofish. Filter by appraisal service guarantee (`filterAppraise`) and condition. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-designer-luxury-fashion&fpr=939u3w&fp_sid=gh_goofish) |
+| **Find DJI Drones, Action Cameras & Gimbals on Goofish** | Track DJI Mini, Mavic, Osmo Pocket, and action cameras on Goofish. Extract included accessories, fly time specs, and seller locations. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-dji-drones-cameras&fpr=939u3w&fp_sid=gh_goofish) |
+| **Explore Custom Mechanical Keyboards, Keycaps & Audio on Goofish** | Source custom mechanical keyboards, artisan keycaps, switches, and audiophile gear from enthusiastic hobbyist sellers on Goofish. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-mechanical-keyboards&fpr=939u3w&fp_sid=gh_goofish) |
+| **Filter Items from Verified Top-Credit Zhima Sellers on Goofish** | Enrich product searches with full seller metrics: Zhima credit ratings (`信用极好`), total items sold, positive feedback rates, and 24h response times. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-verified-zhima-sellers&fpr=939u3w&fp_sid=gh_goofish) |
+| **Source Wholesale Liquidation Lots on Goofish** | Discover factory surplus, store closeouts, and bulk inventory bundles on Goofish for cross-border e-commerce arbitrage and resale. | [⚡ Launch Task](https://apify.com/unitbytes/goofish-xianyu-search-scraper?task=goofish-wholesale-liquidation-lots&fpr=939u3w&fp_sid=gh_goofish) |
+
+---
+
 ## 📖 Overview
 
 **Goofish (闲鱼 / Xianyu / Idle Fish)** is Alibaba's flagship C2C second-hand marketplace with over **500 million registered users**. It is Asia's largest trading hub for pre-owned consumer electronics, designer fashion, vintage luxury, anime figures, video games, musical instruments, and rare collectibles.
