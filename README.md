@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/banners/unitbytes-goofish-xianyu-search-deals-scraper-banner.jpg" alt="Goofish (Xianyu) Search & Deals Scraper API by UnitBytes" width="100%" />
-</p>
-
 # 🐟 Goofish (Xianyu / 闲鱼 / Idle Fish) Scraper & API
 
 <div align="center">
@@ -21,13 +17,15 @@
 
 ---
 
-<div align="center">
-  <img src="goofish_scraper_banner.jpg" alt="Goofish Xianyu Scraper by UnitBytes" width="100%">
-</div>
+<p align="center">
+  <a href="https://console.apify.com/actors/qV671U8clNpxf88gr/input" target="_blank">
+    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/banners/unitbytes-goofish-xianyu-search-deals-scraper-banner.jpg" alt="Goofish Xianyu Search & Deals Scraper by UnitBytes" width="100%" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" target="_blank">
-    <img src="https://raw.githubusercontent.com/unitbytes-com/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="260" height="52" alt="Try it Free on Apify">
+  <a href="https://console.apify.com/actors/qV671U8clNpxf88gr/input" target="_blank">
+    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
   </a>
   <br>
   <sub>⚡ <b>1-Click Free Trial:</b> Test live queries using Apify's $5 free monthly credit • No credit card required</sub>
@@ -48,30 +46,30 @@ However, extracting data from Goofish is notoriously difficult:
 
 <table>
   <tr>
-    <td colspan="4" style="padding:10px 14px;background:#FF6A00;color:#FFFFFF;font-size:13px;font-weight:700;border-radius:6px 6px 0 0">
-      ⚡ UnitBytes · Chinese E-Commerce &amp; B2B Sourcing Ecosystem
+    <td colspan="5" style="padding:10px 14px;background:#FF6A00;color:#FFFFFF;font-size:13px;font-weight:700;border-radius:6px 6px 0 0">
+      ⚡ UnitBytes · Chinese E-Commerce & B2B Sourcing Ecosystem
     </td>
   </tr>
   <tr>
-    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/unitbytes/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=gh_alibaba" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br>
-      <span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B Wholesale</span><br>
-      <span style="color:#64748B;font-size:11px">Tiered prices, MOQ &amp; audits</span>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
+      <span style="white-space:nowrap">🌐 <b><a href="https://apify.com/unitbytes/alibaba-wholesale-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">Alibaba Wholesale</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Global B2B & MOQ</span><br>
+      <span style="color:#64748B;font-size:11px">Verified Suppliers & Audits</span>
     </td>
-    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=gh_1688" style="color:#0F172A;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br>
-      <span style="color:#2563EB;font-size:11px;font-weight:600">Domestic Factory Prices</span><br>
-      <span style="color:#64748B;font-size:11px">SKU matrices &amp; FBA specs</span>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
+      <span style="white-space:nowrap">🇨🇳 <b><a href="https://apify.com/unitbytes/1688-wholesale-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">1688 Factory Direct</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Domestic Factory Prices</span><br>
+      <span style="color:#64748B;font-size:11px">SKU matrices & FBA specs</span>
     </td>
-    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FFF4ED;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">🐟 <b><a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" style="color:#C2410C;text-decoration:none;font-size:13px">Goofish Products</a></b></span><br>
-      <span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
-      <span style="color:#64748B;font-size:11px">C2C resale &amp; arbitrage</span>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
+      <span style="white-space:nowrap">📕 <b><a href="https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">Xiaohongshu Trends</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Social Commerce & KOL</span><br>
+      <span style="color:#64748B;font-size:11px">Viral Posts & Buyer Intent</span>
     </td>
-    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:25%">
-      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br>
-      <span style="color:#2563EB;font-size:11px;font-weight:600">Merchant Due Diligence</span><br>
-      <span style="color:#64748B;font-size:11px">Zhima credit &amp; reviews</span>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FFF4ED;vertical-align:top;width:20%">
+      <span style="white-space:nowrap">🐟 <b><a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#C2410C;text-decoration:none;font-size:13px">Goofish Products</a></b></span><br><span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
+      <span style="color:#64748B;font-size:11px">Zero-login search engine</span>
+    </td>
+    <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FAFAFA;vertical-align:top;width:20%">
+      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#0F172A;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br><span style="color:#2563EB;font-size:11px;font-weight:600">Merchant Due Diligence</span><br>
+      <span style="color:#64748B;font-size:11px">Zhima credit & reviews</span>
     </td>
   </tr>
 </table>
@@ -93,8 +91,8 @@ However, extracting data from Goofish is notoriously difficult:
 | **Anti-Bot Resilience** | **Automated Session Auto-Healing** | Frequent IP blocks and rate limits | Cloudflare/WAF errors |
 
 <p align="center">
-  <a href="https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish" target="_blank">
-    <img src="https://raw.githubusercontent.com/unitbytes-com/1688-Wholesale-Scraper-API/main/try-it-free.svg" width="240" height="48" alt="Try it Free on Apify">
+  <a href="https://console.apify.com/actors/qV671U8clNpxf88gr/input">
+    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
   </a>
 </p>
 
@@ -342,6 +340,37 @@ Each record contains clean, structured information ready for downstream ingestio
 | `quickFilters` | `array` | `[]` | `filterPersonal` (private sellers only), `filterFreePostage` (free shipping), `filterNew` (brand new), `filterAppraise` (verified authentic). |
 | `regionIds` | `array` | `[]` | Filter by Chinese province or city code (e.g. `440100` for Guangzhou, `310100` for Shanghai). |
 | `proxyConfiguration` | `object` | Residential | Apify Proxy configuration (residential proxies recommended for large-scale runs). |
+
+---
+
+
+---
+
+### 🔌 MCP Server Setup: Claude Code, Cursor & AI Agents
+
+Connect this scraper directly to **Claude Code**, **Claude Desktop**, **Cursor**, or any MCP-compatible AI agent via the hosted Apify MCP server:
+
+```json
+{
+  "mcpServers": {
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=actors,docs,unitbytes/goofish-xianyu-search-scraper"
+    }
+  }
+}
+```
+*No manual API token required in configuration if your client supports Apify OAuth sign-in. Alternatively, pass your Apify API Token in the authorization header.*
+
+---
+
+### 🤖 Ask an AI Assistant About This Scraper
+
+Open a ready-to-run prompt about Goofish Xianyu Search Scraper in your favorite AI assistant:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Goofish%20%28Xianyu%29%20Search%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-search-scraper%29%2C%20walk%20me%20through%20searching%20secondary%20market%20electronics%20deals%20with%20Zhima%20credit%20filters.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Goofish%20%28Xianyu%29%20Search%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-search-scraper%29%2C%20walk%20me%20through%20searching%20secondary%20market%20electronics%20deals%20with%20Zhima%20credit%20filters.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Goofish%20%28Xianyu%29%20Search%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-search-scraper%29%2C%20walk%20me%20through%20searching%20secondary%20market%20electronics%20deals%20with%20Zhima%20credit%20filters.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
 
 ---
 
